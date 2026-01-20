@@ -1,5 +1,5 @@
 # secaf
-Africa SecLists - Defensive Cyber Tools for the Region
+### Africa SecLists - Defensive Cyber Tools for the Region
 
 This SecLists collection is dedicated exclusively to defensive and educational cybersecurity purposes. It aims to strengthen the protection of systems, networks, and data against growing threats in Africa, particularly in West Africa (Guinea, Senegal, Côte d'Ivoire, etc.).
 
