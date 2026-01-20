@@ -1,0 +1,4 @@
+partners
+contracts
+invoices
+clients
